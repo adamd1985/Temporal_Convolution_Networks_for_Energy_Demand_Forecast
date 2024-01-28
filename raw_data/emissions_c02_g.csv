@@ -1,0 +1,961 @@
+﻿Year,Sub-Sector,Emissions
+2021,Wastewater Treatment and Discharge,16.167786385
+2020,Wastewater Treatment and Discharge,13.406545210
+2019,Wastewater Treatment and Discharge,15.961898243
+2018,Wastewater Treatment and Discharge,8.906486169
+2017,Wastewater Treatment and Discharge,9.634570513
+2016,Wastewater Treatment and Discharge,10.094908883
+2015,Wastewater Treatment and Discharge,11.679925980
+2014,Wastewater Treatment and Discharge,7.234509647
+2013,Wastewater Treatment and Discharge,4.496902298
+2012,Wastewater Treatment and Discharge,3.783288057
+2011,Wastewater Treatment and Discharge,10.175920987
+2010,Wastewater Treatment and Discharge,28.608613660
+2009,Wastewater Treatment and Discharge,26.625671235
+2008,Wastewater Treatment and Discharge,29.726534220
+2007,Wastewater Treatment and Discharge,31.801216856
+2006,Wastewater Treatment and Discharge,31.244865533
+2005,Wastewater Treatment and Discharge,31.065706247
+2004,Wastewater Treatment and Discharge,31.129325596
+2003,Wastewater Treatment and Discharge,30.857386593
+2002,Wastewater Treatment and Discharge,30.666217217
+2001,Wastewater Treatment and Discharge,30.421188389
+2000,Wastewater Treatment and Discharge,31.407233757
+1999,Wastewater Treatment and Discharge,30.107953412
+1998,Wastewater Treatment and Discharge,31.173783438
+1997,Wastewater Treatment and Discharge,31.330792739
+1996,Wastewater Treatment and Discharge,30.383787171
+1995,Wastewater Treatment and Discharge,30.673726254
+1994,Wastewater Treatment and Discharge,29.944544502
+1993,Wastewater Treatment and Discharge,29.661529140
+1992,Wastewater Treatment and Discharge,29.478143375
+1991,Wastewater Treatment and Discharge,29.074485914
+1990,Wastewater Treatment and Discharge,28.309812418
+2021,Solid Waste Disposal,182.897322734
+2020,Solid Waste Disposal,175.669367485
+2019,Solid Waste Disposal,165.462733369
+2018,Solid Waste Disposal,155.480144736
+2017,Solid Waste Disposal,146.954816719
+2016,Solid Waste Disposal,148.411929977
+2015,Solid Waste Disposal,136.445235865
+2014,Solid Waste Disposal,125.381690918
+2013,Solid Waste Disposal,113.415371429
+2012,Solid Waste Disposal,115.167474132
+2011,Solid Waste Disposal,106.963319098
+2010,Solid Waste Disposal,94.327545737
+2009,Solid Waste Disposal,108.176220708
+2008,Solid Waste Disposal,88.034454187
+2007,Solid Waste Disposal,176.793365715
+2006,Solid Waste Disposal,169.816938087
+2005,Solid Waste Disposal,162.537337635
+2004,Solid Waste Disposal,153.602036328
+2003,Solid Waste Disposal,144.706997529
+2002,Solid Waste Disposal,136.140778774
+2001,Solid Waste Disposal,127.511335594
+2000,Solid Waste Disposal,119.457101948
+1999,Solid Waste Disposal,110.357926675
+1998,Solid Waste Disposal,101.829746177
+1997,Solid Waste Disposal,93.004481236
+1996,Solid Waste Disposal,85.916227454
+1995,Solid Waste Disposal,78.859141464
+1994,Solid Waste Disposal,72.054246112
+1993,Solid Waste Disposal,65.441951267
+1992,Solid Waste Disposal,58.959423640
+1991,Solid Waste Disposal,52.627604484
+1990,Solid Waste Disposal,46.475651144
+2021,Settlements,2.479367069
+2020,Settlements,9.612821728
+2019,Settlements,8.454702725
+2018,Settlements,0.177588617
+2017,Settlements,0.206765054
+2016,Settlements,0.196879269
+2015,Settlements,0.226173665
+2014,Settlements,0.255468061
+2013,Settlements,0.284762457
+2012,Settlements,0.314056853
+2011,Settlements,0.343351249
+2010,Settlements,0.372645645
+2009,Settlements,0.488254135
+2008,Settlements,0.549574739
+2007,Settlements,0.610026031
+2006,Settlements,0.613910567
+2005,Settlements,0.638347403
+2004,Settlements,0.638347403
+2003,Settlements,0.638347403
+2002,Settlements,0.638347403
+2001,Settlements,0.638347403
+2000,Settlements,0.965780737
+1999,Settlements,0.931490903
+1998,Settlements,1.504731704
+1997,Settlements,1.470441870
+1996,Settlements,1.510022611
+1995,Settlements,1.477890046
+1994,Settlements,1.443600212
+1993,Settlements,1.409310379
+1992,Settlements,1.375020545
+1991,Settlements,1.340730711
+1990,Settlements,2.130653433
+2021,Road Transportation,557.396843741
+2020,Road Transportation,533.124010836
+2019,Road Transportation,662.024851954
+2018,Road Transportation,632.775009590
+2017,Road Transportation,564.945751652
+2016,Road Transportation,549.082498344
+2015,Road Transportation,546.190357011
+2014,Road Transportation,515.184367557
+2013,Road Transportation,505.405032974
+2012,Road Transportation,495.717919507
+2011,Road Transportation,505.434644001
+2010,Road Transportation,522.210435148
+2009,Road Transportation,493.650166233
+2008,Road Transportation,513.292048395
+2007,Road Transportation,512.918979452
+2006,Road Transportation,501.108207134
+2005,Road Transportation,495.225687353
+2004,Road Transportation,485.490292987
+2003,Road Transportation,509.062721956
+2002,Road Transportation,509.143533631
+2001,Road Transportation,506.292450587
+2000,Road Transportation,484.734871601
+1999,Road Transportation,480.735959085
+1998,Road Transportation,473.121842464
+1997,Road Transportation,466.011335683
+1996,Road Transportation,453.201473906
+1995,Road Transportation,430.674700593
+1994,Road Transportation,420.018262888
+1993,Road Transportation,402.414577424
+1992,Road Transportation,382.317963367
+1991,Road Transportation,360.083179277
+1990,Road Transportation,337.977129622
+2021,Residential,39.959304143
+2020,Residential,41.434966347
+2019,Residential,42.483718258
+2018,Residential,41.110114727
+2017,Residential,44.109613641
+2016,Residential,38.2837715
+2015,Residential,47.334214
+2014,Residential,41.483999
+2013,Residential,44.305167
+2012,Residential,38.229327
+2011,Residential,35.220078
+2010,Residential,38.140236
+2009,Residential,40.743626
+2008,Residential,41.0018152
+2007,Residential,38.0915562
+2006,Residential,44.1702634
+2005,Residential,50.2489706
+2004,Residential,101.56776385
+2003,Residential,98.39931565
+2002,Residential,88.89397105
+2001,Residential,79.5645692
+2000,Residential,79.5645692
+1999,Residential,79.38862645
+1998,Residential,63.54638545
+1997,Residential,98.5752584
+1996,Residential,111.07310845
+1995,Residential,110.8971657
+1994,Residential,104.5602693
+1993,Residential,104.5602693
+1992,Residential,104.5602693
+1991,Residential,98.5752584
+1990,Residential,95.58275295
+2021,Public Electricity & Heat Production,772.510191301
+2020,Public Electricity & Heat Production,810.856449840
+2019,Public Electricity & Heat Production,739.911944450
+2018,Public Electricity & Heat Production,698.600107572
+2017,Public Electricity & Heat Production,724.519011860
+2016,Public Electricity & Heat Production,559.302687
+2015,Public Electricity & Heat Production,852.78786
+2014,Public Electricity & Heat Production,1604.361366
+2013,Public Electricity & Heat Production,1645.099842
+2012,Public Electricity & Heat Production,2025.363117
+2011,Public Electricity & Heat Production,1913.557197
+2010,Public Electricity & Heat Production,1867.881687
+2009,Public Electricity & Heat Production,1870.441233
+2008,Public Electricity & Heat Production,1992.019458
+2007,Public Electricity & Heat Production,2035.055127
+2006,Public Electricity & Heat Production,2001.165294
+2005,Public Electricity & Heat Production,1979.698341
+2004,Public Electricity & Heat Production,2072.0538624
+2003,Public Electricity & Heat Production,2166.4987656
+2002,Public Electricity & Heat Production,1963.0462938
+2001,Public Electricity & Heat Production,1950.0575502
+2000,Public Electricity & Heat Production,1607.3910342
+1999,Public Electricity & Heat Production,1714.8993078
+1998,Public Electricity & Heat Production,1641.5539962
+1997,Public Electricity & Heat Production,1616.6996658
+1996,Public Electricity & Heat Production,1652.1637638
+1995,Public Electricity & Heat Production,1595.6412056
+1994,Public Electricity & Heat Production,1815.463188
+1993,Public Electricity & Heat Production,2109.3967092
+1992,Public Electricity & Heat Production,1541.7424601
+1991,Public Electricity & Heat Production,1604.8651827
+1990,Public Electricity & Heat Production,1765.010907
+2021,Product Uses as Substitutes for Ozone Depleting Substances,228.810492182
+2020,Product Uses as Substitutes for Ozone Depleting Substances,225.038325036
+2019,Product Uses as Substitutes for Ozone Depleting Substances,220.655869370
+2018,Product Uses as Substitutes for Ozone Depleting Substances,231.123589948
+2017,Product Uses as Substitutes for Ozone Depleting Substances,243.751112164
+2016,Product Uses as Substitutes for Ozone Depleting Substances,234.118445699
+2015,Product Uses as Substitutes for Ozone Depleting Substances,219.793032800
+2014,Product Uses as Substitutes for Ozone Depleting Substances,211.455370739
+2013,Product Uses as Substitutes for Ozone Depleting Substances,199.714160314
+2012,Product Uses as Substitutes for Ozone Depleting Substances,189.176871529
+2011,Product Uses as Substitutes for Ozone Depleting Substances,157.575665116
+2010,Product Uses as Substitutes for Ozone Depleting Substances,134.797147695
+2009,Product Uses as Substitutes for Ozone Depleting Substances,122.227431033
+2008,Product Uses as Substitutes for Ozone Depleting Substances,105.438191817
+2007,Product Uses as Substitutes for Ozone Depleting Substances,89.787041184
+2006,Product Uses as Substitutes for Ozone Depleting Substances,72.566617218
+2005,Product Uses as Substitutes for Ozone Depleting Substances,35.182447955
+2004,Product Uses as Substitutes for Ozone Depleting Substances,20.185802664
+2003,Product Uses as Substitutes for Ozone Depleting Substances,13.437928597
+2002,Product Uses as Substitutes for Ozone Depleting Substances,12.203584519
+2001,Product Uses as Substitutes for Ozone Depleting Substances,8.795966247
+2000,Product Uses as Substitutes for Ozone Depleting Substances,4.632229132
+1999,Product Uses as Substitutes for Ozone Depleting Substances,0.010247256
+1998,Product Uses as Substitutes for Ozone Depleting Substances,0.006835763
+1997,Product Uses as Substitutes for Ozone Depleting Substances,0.004274587
+1996,Product Uses as Substitutes for Ozone Depleting Substances,0.002566286
+1995,Product Uses as Substitutes for Ozone Depleting Substances,0.001713426
+1994,Product Uses as Substitutes for Ozone Depleting Substances,0.000858
+1993,Product Uses as Substitutes for Ozone Depleting Substances,0
+1992,Product Uses as Substitutes for Ozone Depleting Substances,0
+1991,Product Uses as Substitutes for Ozone Depleting Substances,0
+1990,Product Uses as Substitutes for Ozone Depleting Substances,0
+2021,Other sectors,152.618059588
+2020,Other sectors,146.778886252
+2019,Other sectors,147.757991754
+2018,Other sectors,132.602542458
+2017,Other sectors,151.155863350
+2016,Other sectors,148.555085992
+2015,Other sectors,162.589312852
+2014,Other sectors,142.082840693
+2013,Other sectors,135.287886293
+2012,Other sectors,126.035606230
+2011,Other sectors,97.885822310
+2010,Other sectors,132.475711406
+2009,Other sectors,107.742750929
+2008,Other sectors,121.591245512
+2007,Other sectors,119.023901441
+2006,Other sectors,109.975426760
+2005,Other sectors,128.048148488
+2004,Other sectors,214.449818239
+2003,Other sectors,208.779075357
+2002,Other sectors,202.855151951
+2001,Other sectors,209.880042487
+2000,Other sectors,303.061096954
+1999,Other sectors,304.903994565
+1998,Other sectors,341.306037049
+1997,Other sectors,385.061068781
+1996,Other sectors,341.425594786
+1995,Other sectors,337.811065859
+1994,Other sectors,344.486294068
+1993,Other sectors,302.650414184
+1992,Other sectors,299.033000239
+1991,Other sectors,246.860620201
+1990,Other sectors,265.207993334
+2021,Other Product Manufacture and Use,2.265879137
+2020,Other Product Manufacture and Use,2.568119495
+2019,Other Product Manufacture and Use,1.570705988
+2018,Other Product Manufacture and Use,1.124483272
+2017,Other Product Manufacture and Use,1.628454374
+2016,Other Product Manufacture and Use,1.827731842
+2015,Other Product Manufacture and Use,0.781240194
+2014,Other Product Manufacture and Use,1.385793114
+2013,Other Product Manufacture and Use,4.044546215
+2012,Other Product Manufacture and Use,2.357191059
+2011,Other Product Manufacture and Use,6.115244006
+2010,Other Product Manufacture and Use,3.107451366
+2009,Other Product Manufacture and Use,3.169037050
+2008,Other Product Manufacture and Use,3.855887939
+2007,Other Product Manufacture and Use,4.205694267
+2006,Other Product Manufacture and Use,3.609219738
+2005,Other Product Manufacture and Use,3.797181263
+2004,Other Product Manufacture and Use,3.869729527
+2003,Other Product Manufacture and Use,4.409580997
+2002,Other Product Manufacture and Use,3.975695873
+2001,Other Product Manufacture and Use,3.769166928
+2000,Other Product Manufacture and Use,4.329000053
+1999,Other Product Manufacture and Use,4.078222633
+1998,Other Product Manufacture and Use,3.875466456
+1997,Other Product Manufacture and Use,3.855515489
+1996,Other Product Manufacture and Use,3.853786307
+1995,Other Product Manufacture and Use,3.840633598
+1994,Other Product Manufacture and Use,3.834351138
+1993,Other Product Manufacture and Use,3.827726817
+1992,Other Product Manufacture and Use,3.825414168
+1991,Other Product Manufacture and Use,2.363301488
+1990,Other Product Manufacture and Use,2.360884626
+2021,Other Land,3.175564851
+2020,Other Land,4.375609903
+2019,Other Land,3.100781855
+2018,Other Land,0.651829106
+2017,Other Land,0.663559838
+2016,Other Land,0.620143904
+2015,Other Land,0.632707285
+2014,Other Land,0.645270665
+2013,Other Land,0.657834045
+2012,Other Land,0.670397425
+2011,Other Land,0.682960805
+2010,Other Land,0.695524186
+2009,Other Land,0.753205768
+2008,Other Land,0.765769149
+2007,Other Land,0.778332529
+2006,Other Land,0.781130353
+2005,Other Land,0.834755367
+2004,Other Land,0.824227787
+2003,Other Land,0.797615762
+2002,Other Land,0.787331037
+2001,Other Land,0.793130756
+2000,Other Land,0.853834287
+1999,Other Land,0.806008992
+1998,Other Land,0.804905734
+1997,Other Land,0.757080440
+1996,Other Land,0.750706575
+1995,Other Land,0.749603316
+1994,Other Land,0.706869884
+1993,Other Land,0.659044590
+1992,Other Land,0.611219295
+1991,Other Land,0.563394000
+1990,Other Land,0.610783529
+2021,Non-Specified (Military),3.215373363
+2020,Non-Specified (Military),4.142898783
+2019,Non-Specified (Military),3.338329872
+2018,Non-Specified (Military),3.311498562
+2017,Non-Specified (Military),3.714691196
+2016,Non-Specified (Military),3.566186929
+2015,Non-Specified (Military),3.405234585
+2014,Non-Specified (Military),3.107721939
+2013,Non-Specified (Military),2.852237497
+2012,Non-Specified (Military),2.484658214
+2011,Non-Specified (Military),2.749019320
+2010,Non-Specified (Military),2.030163125
+2009,Non-Specified (Military),1.885801396
+2008,Non-Specified (Military),1.725136688
+2007,Non-Specified (Military),1.675611831
+2006,Non-Specified (Military),1.455591895
+2005,Non-Specified (Military),1.314657057
+2004,Non-Specified (Military),1.322674458
+2003,Non-Specified (Military),1.316617905
+2002,Non-Specified (Military),1.456239550
+2001,Non-Specified (Military),1.382582048
+2000,Non-Specified (Military),1.281690565
+1999,Non-Specified (Military),1.135022489
+1998,Non-Specified (Military),1.090286356
+1997,Non-Specified (Military),1.105973824
+1996,Non-Specified (Military),1.131706219
+1995,Non-Specified (Military),1.171128543
+1994,Non-Specified (Military),0.981536941
+1993,Non-Specified (Military),0.881378818
+1992,Non-Specified (Military),0.825200242
+1991,Non-Specified (Military),0.687718181
+1990,Non-Specified (Military),0.804825083
+2021,Non-Energy Products from Fuels and Solvent Use,4.597643782
+2020,Non-Energy Products from Fuels and Solvent Use,4.262335010
+2019,Non-Energy Products from Fuels and Solvent Use,4.510091639
+2018,Non-Energy Products from Fuels and Solvent Use,5.160202451
+2017,Non-Energy Products from Fuels and Solvent Use,4.526943839
+2016,Non-Energy Products from Fuels and Solvent Use,6.339353690
+2015,Non-Energy Products from Fuels and Solvent Use,7.670907774
+2014,Non-Energy Products from Fuels and Solvent Use,8.482068166
+2013,Non-Energy Products from Fuels and Solvent Use,8.623475971
+2012,Non-Energy Products from Fuels and Solvent Use,4.312267731
+2011,Non-Energy Products from Fuels and Solvent Use,3.780402015
+2010,Non-Energy Products from Fuels and Solvent Use,3.337116781
+2009,Non-Energy Products from Fuels and Solvent Use,3.755277093
+2008,Non-Energy Products from Fuels and Solvent Use,3.514076173
+2007,Non-Energy Products from Fuels and Solvent Use,3.214024287
+2006,Non-Energy Products from Fuels and Solvent Use,3.951490799
+2005,Non-Energy Products from Fuels and Solvent Use,3.355137794
+2004,Non-Energy Products from Fuels and Solvent Use,3.175707864
+2003,Non-Energy Products from Fuels and Solvent Use,3.428974392
+2002,Non-Energy Products from Fuels and Solvent Use,3.410140862
+2001,Non-Energy Products from Fuels and Solvent Use,3.462014964
+2000,Non-Energy Products from Fuels and Solvent Use,3.378124038
+1999,Non-Energy Products from Fuels and Solvent Use,3.396963904
+1998,Non-Energy Products from Fuels and Solvent Use,3.453132386
+1997,Non-Energy Products from Fuels and Solvent Use,3.457665235
+1996,Non-Energy Products from Fuels and Solvent Use,3.467104729
+1995,Non-Energy Products from Fuels and Solvent Use,3.468422842
+1994,Non-Energy Products from Fuels and Solvent Use,3.486284275
+1993,Non-Energy Products from Fuels and Solvent Use,3.504120637
+1992,Non-Energy Products from Fuels and Solvent Use,3.514419269
+1991,Non-Energy Products from Fuels and Solvent Use,3.526420991
+1990,Non-Energy Products from Fuels and Solvent Use,3.538303848
+2021,Mineral Industry,0.151729215
+2020,Mineral Industry,0.190790655
+2019,Mineral Industry,0.182780855
+2018,Mineral Industry,0.204162645
+2017,Mineral Industry,0.291357825
+2016,Mineral Industry,1.125059785
+2015,Mineral Industry,1.88600516
+2014,Mineral Industry,2.477672465
+2013,Mineral Industry,2.53767455
+2012,Mineral Industry,0.901068915
+2011,Mineral Industry,0.17476052
+2010,Mineral Industry,0.18457584
+2009,Mineral Industry,0.11073207
+2008,Mineral Industry,0.046314
+2007,Mineral Industry,0.06663572
+2006,Mineral Industry,0.17917376
+2005,Mineral Industry,0.05740197
+2004,Mineral Industry,0.182224425
+2003,Mineral Industry,0.129077865
+2002,Mineral Industry,0.198294885
+2001,Mineral Industry,0.201150915
+2000,Mineral Industry,0.21311495
+1999,Mineral Industry,0.275321375
+1998,Mineral Industry,0.963443135
+1997,Mineral Industry,1.537188055
+1996,Mineral Industry,1.400338
+1995,Mineral Industry,1.510408355
+1994,Mineral Industry,1.55471232
+1993,Mineral Industry,1.28046787
+1992,Mineral Industry,1.27411007
+1991,Mineral Industry,1.501181055
+1990,Mineral Industry,1.43588205
+2021,Metal Industry,0
+2020,Metal Industry,0
+2019,Metal Industry,0
+2018,Metal Industry,0
+2017,Metal Industry,0
+2016,Metal Industry,0
+2015,Metal Industry,0
+2014,Metal Industry,0
+2013,Metal Industry,0
+2012,Metal Industry,0
+2011,Metal Industry,0
+2010,Metal Industry,0
+2009,Metal Industry,0
+2008,Metal Industry,0
+2007,Metal Industry,0
+2006,Metal Industry,0
+2005,Metal Industry,0
+2004,Metal Industry,0
+2003,Metal Industry,0
+2002,Metal Industry,0
+2001,Metal Industry,0
+2000,Metal Industry,0
+1999,Metal Industry,0
+1998,Metal Industry,0
+1997,Metal Industry,0
+1996,Metal Industry,0
+1995,Metal Industry,0
+1994,Metal Industry,0
+1993,Metal Industry,0
+1992,Metal Industry,0
+1991,Metal Industry,0
+1990,Metal Industry,0
+2021,Manure Management,18.552408063
+2020,Manure Management,18.407920041
+2019,Manure Management,17.810351099
+2018,Manure Management,17.621048581
+2017,Manure Management,17.207817724
+2016,Manure Management,17.592747364
+2015,Manure Management,17.691563937
+2014,Manure Management,17.950385049
+2013,Manure Management,18.094032952
+2012,Manure Management,18.005105419
+2011,Manure Management,17.888913723
+2010,Manure Management,19.272923376
+2009,Manure Management,19.768307098
+2008,Manure Management,20.616097685
+2007,Manure Management,21.794969641
+2006,Manure Management,21.468794924
+2005,Manure Management,21.616310400
+2004,Manure Management,24.702314206
+2003,Manure Management,24.123852699
+2002,Manure Management,25.546835062
+2001,Manure Management,25.610724737
+2000,Manure Management,26.462777418
+1999,Manure Management,27.745550328
+1998,Manure Management,26.902946235
+1997,Manure Management,28.154458510
+1996,Manure Management,27.876706020
+1995,Manure Management,27.362018611
+1994,Manure Management,28.281996956
+1993,Manure Management,28.946655913
+1992,Manure Management,28.982016959
+1991,Manure Management,28.276424434
+1990,Manure Management,27.316898639
+2021,Manufacturing Industries & Construction,54.418522883
+2020,Manufacturing Industries & Construction,50.024780407
+2019,Manufacturing Industries & Construction,47.244025938
+2018,Manufacturing Industries & Construction,43.32398776
+2017,Manufacturing Industries & Construction,53.6565182
+2016,Manufacturing Industries & Construction,59.681247
+2015,Manufacturing Industries & Construction,59.881994136
+2014,Manufacturing Industries & Construction,62.88030141
+2013,Manufacturing Industries & Construction,53.641639536
+2012,Manufacturing Industries & Construction,27.823448892
+2011,Manufacturing Industries & Construction,15.309512919
+2010,Manufacturing Industries & Construction,30.838032
+2009,Manufacturing Industries & Construction,21.520872
+2008,Manufacturing Industries & Construction,36.958443
+2007,Manufacturing Industries & Construction,36.958443
+2006,Manufacturing Industries & Construction,30.747003
+2005,Manufacturing Industries & Construction,27.841896
+2004,Manufacturing Industries & Construction,64.382212126
+2003,Manufacturing Industries & Construction,64.234146117
+2002,Manufacturing Industries & Construction,59.772905956
+2001,Manufacturing Industries & Construction,56.629388880
+2000,Manufacturing Industries & Construction,62.627952034
+1999,Manufacturing Industries & Construction,63.656527020
+1998,Manufacturing Industries & Construction,59.905625623
+1997,Manufacturing Industries & Construction,78.546334503
+1996,Manufacturing Industries & Construction,76.196947512
+1995,Manufacturing Industries & Construction,75.542852618
+1994,Manufacturing Industries & Construction,70.707370996
+1993,Manufacturing Industries & Construction,65.363663419
+1992,Manufacturing Industries & Construction,63.682024126
+1991,Manufacturing Industries & Construction,54.773802611
+1990,Manufacturing Industries & Construction,52.827236240
+2021,Managed Soils,29.109604394
+2020,Managed Soils,30.267017138
+2019,Managed Soils,28.769396365
+2018,Managed Soils,26.515814521
+2017,Managed Soils,28.557110872
+2016,Managed Soils,27.886119857
+2015,Managed Soils,26.992100710
+2014,Managed Soils,26.345455500
+2013,Managed Soils,25.576486290
+2012,Managed Soils,24.808996135
+2011,Managed Soils,24.016084585
+2010,Managed Soils,23.932389994
+2009,Managed Soils,23.046455720
+2008,Managed Soils,22.598825358
+2007,Managed Soils,21.837145307
+2006,Managed Soils,21.221764538
+2005,Managed Soils,21.404713897
+2004,Managed Soils,22.721925069
+2003,Managed Soils,22.358354165
+2002,Managed Soils,22.543606638
+2001,Managed Soils,23.143512853
+2000,Managed Soils,23.164587869
+1999,Managed Soils,23.472064055
+1998,Managed Soils,22.899033895
+1997,Managed Soils,23.215124297
+1996,Managed Soils,22.261431263
+1995,Managed Soils,22.515869021
+1994,Managed Soils,22.956872706
+1993,Managed Soils,22.925784681
+1992,Managed Soils,22.500435273
+1991,Managed Soils,22.002932223
+1990,Managed Soils,22.655586621
+2021,International Navigation,6289.729894166
+2020,International Navigation,7093.682251137
+2019,International Navigation,7346.509987279
+2018,International Navigation,7168.466390236
+2017,International Navigation,6935.945910612
+2016,International Navigation,5693.051395648
+2015,International Navigation,4989.640823676
+2014,International Navigation,3975.628195451
+2013,International Navigation,3858.171321558
+2012,International Navigation,3845.486656748
+2011,International Navigation,4333.083766451
+2010,International Navigation,4704.893956678
+2009,International Navigation,3126.833103716
+2008,International Navigation,2952.185790655
+2007,International Navigation,2729.181927193
+2006,International Navigation,2435.705930118
+2005,International Navigation,2132.651588042
+2004,International Navigation,3183.092463111
+2003,International Navigation,2975.727946830
+2002,International Navigation,2798.668634102
+2001,International Navigation,2344.245811663
+2000,International Navigation,2263.390373481
+1999,International Navigation,2047.978248305
+1998,International Navigation,1872.207740427
+1997,International Navigation,1748.987074852
+1996,International Navigation,1586.460010857
+1995,International Navigation,1542.722302169
+1994,International Navigation,1518.774869845
+1993,International Navigation,1480.484632752
+1992,International Navigation,1217.064788308
+1991,International Navigation,971.493245895
+1990,International Navigation,964.420271607
+2021,International Aviation,249.351205336
+2020,International Aviation,195.662794468
+2019,International Aviation,510.760780196
+2018,International Aviation,474.044487456
+2017,International Aviation,429.449763341
+2016,International Aviation,395.201671579
+2015,International Aviation,360.333402528
+2014,International Aviation,342.943821746
+2013,International Aviation,324.532791859
+2012,International Aviation,300.724412871
+2011,International Aviation,305.120530090
+2010,International Aviation,294.000397195
+2009,International Aviation,268.457200772
+2008,International Aviation,284.764254254
+2007,International Aviation,277.011461186
+2006,International Aviation,260.818115404
+2005,International Aviation,268.429464641
+2004,International Aviation,262.569852022
+2003,International Aviation,257.018377573
+2002,International Aviation,255.931426207
+2001,International Aviation,276.332900105
+2000,International Aviation,327.288128351
+1999,International Aviation,340.244054191
+1998,International Aviation,331.587317734
+1997,International Aviation,345.073618953
+1996,International Aviation,328.628594516
+1995,International Aviation,331.740550821
+1994,International Aviation,310.258585140
+1993,International Aviation,251.816604085
+1992,International Aviation,245.645283174
+1991,International Aviation,187.251001253
+1990,International Aviation,198.166279249
+2021,Incineration and Open Burning of Waste,0.576405472
+2020,Incineration and Open Burning of Waste,0.789544432
+2019,Incineration and Open Burning of Waste,0.677056733
+2018,Incineration and Open Burning of Waste,0.673740483
+2017,Incineration and Open Burning of Waste,0.634708825
+2016,Incineration and Open Burning of Waste,0.652282187
+2015,Incineration and Open Burning of Waste,0.712485103
+2014,Incineration and Open Burning of Waste,0.796903836
+2013,Incineration and Open Burning of Waste,0.624710644
+2012,Incineration and Open Burning of Waste,0.765231385
+2011,Incineration and Open Burning of Waste,0.850805557
+2010,Incineration and Open Burning of Waste,0.706666011
+2009,Incineration and Open Burning of Waste,0.660417148
+2008,Incineration and Open Burning of Waste,0.495709910
+2007,Incineration and Open Burning of Waste,0.316497734
+2006,Incineration and Open Burning of Waste,0.316497734
+2005,Incineration and Open Burning of Waste,0.316497734
+2004,Incineration and Open Burning of Waste,0.316497734
+2003,Incineration and Open Burning of Waste,0.406444219
+2002,Incineration and Open Burning of Waste,0.406444219
+2001,Incineration and Open Burning of Waste,0.406444219
+2000,Incineration and Open Burning of Waste,0.406444219
+1999,Incineration and Open Burning of Waste,0.406444219
+1998,Incineration and Open Burning of Waste,0.406444219
+1997,Incineration and Open Burning of Waste,0.431220172
+1996,Incineration and Open Burning of Waste,0.431220172
+1995,Incineration and Open Burning of Waste,0.431220172
+1994,Incineration and Open Burning of Waste,0.431220172
+1993,Incineration and Open Burning of Waste,0.431220172
+1992,Incineration and Open Burning of Waste,0.431220172
+1991,Incineration and Open Burning of Waste,0.431220172
+1990,Incineration and Open Burning of Waste,0.431220172
+2021,Grassland,-2.818357912
+2020,Grassland,-3.117645380
+2019,Grassland,-3.356771984
+2018,Grassland,2.058695922
+2017,Grassland,2.711597634
+2016,Grassland,-2.554096586
+2015,Grassland,-2.791614773
+2014,Grassland,-3.028730856
+2013,Grassland,-3.265444835
+2012,Grassland,-3.501756709
+2011,Grassland,-3.737666480
+2010,Grassland,-3.973174146
+2009,Grassland,-4.077435574
+2008,Grassland,-4.269173838
+2007,Grassland,-4.461765170
+2006,Grassland,-4.717141148
+2005,Grassland,-0.716396906
+2004,Grassland,-0.645421978
+2003,Grassland,-4.643011460
+2002,Grassland,-4.643011460
+2001,Grassland,-2.906565853
+2000,Grassland,-5.864594898
+1999,Grassland,-5.626066118
+1998,Grassland,-5.387939441
+1997,Grassland,-5.549566104
+1996,Grassland,-5.362678633
+1995,Grassland,-5.125758270
+1994,Grassland,-5.495900712
+1993,Grassland,-5.259784556
+1992,Grassland,-5.024070505
+1991,Grassland,-8.170780724
+1990,Grassland,-8.820009118
+2021,Enteric Fermentation,40.046760357
+2020,Enteric Fermentation,40.599538559
+2019,Enteric Fermentation,39.832905026
+2018,Enteric Fermentation,39.429687737
+2017,Enteric Fermentation,39.029753365
+2016,Enteric Fermentation,40.095042782
+2015,Enteric Fermentation,39.976353578
+2014,Enteric Fermentation,40.201061137
+2013,Enteric Fermentation,40.800907481
+2012,Enteric Fermentation,41.411761451
+2011,Enteric Fermentation,40.627899712
+2010,Enteric Fermentation,41.845247751
+2009,Enteric Fermentation,43.390153489
+2008,Enteric Fermentation,45.732491350
+2007,Enteric Fermentation,47.858468367
+2006,Enteric Fermentation,47.357458296
+2005,Enteric Fermentation,48.443510314
+2004,Enteric Fermentation,53.580153325
+2003,Enteric Fermentation,50.919109512
+2002,Enteric Fermentation,52.742629392
+2001,Enteric Fermentation,52.947956991
+2000,Enteric Fermentation,55.601876900
+1999,Enteric Fermentation,59.903002909
+1998,Enteric Fermentation,57.880061269
+1997,Enteric Fermentation,61.557332312
+1996,Enteric Fermentation,60.965579976
+1995,Enteric Fermentation,57.788446441
+1994,Enteric Fermentation,59.915104924
+1993,Enteric Fermentation,62.096059344
+1992,Enteric Fermentation,62.574348775
+1991,Enteric Fermentation,61.225322416
+1990,Enteric Fermentation,58.797321301
+2021,Electronics Industry,0
+2020,Electronics Industry,0.1488
+2019,Electronics Industry,0.05208
+2018,Electronics Industry,0.248
+2017,Electronics Industry,0.3482
+2016,Electronics Industry,0.1808
+2015,Electronics Industry,0.2924
+2014,Electronics Industry,0.3792
+2013,Electronics Industry,1.21
+2012,Electronics Industry,0.559
+2011,Electronics Industry,0.094
+2010,Electronics Industry,0.094
+2009,Electronics Industry,0.094
+2008,Electronics Industry,0.094
+2007,Electronics Industry,0.094
+2006,Electronics Industry,0.094
+2005,Electronics Industry,0
+2004,Electronics Industry,0.3596
+2003,Electronics Industry,0.124
+2002,Electronics Industry,0
+2001,Electronics Industry,0
+2000,Electronics Industry,0
+1999,Electronics Industry,0
+1998,Electronics Industry,0
+1997,Electronics Industry,0
+1996,Electronics Industry,0
+1995,Electronics Industry,0
+1994,Electronics Industry,0
+1993,Electronics Industry,0
+1992,Electronics Industry,0
+1991,Electronics Industry,0
+1990,Electronics Industry,0
+2021,Domestic Navigation,68.84631551
+2020,Domestic Navigation,54.58759785
+2019,Domestic Navigation,51.57912112
+2018,Domestic Navigation,37.99767335
+2017,Domestic Navigation,39.51516839
+2016,Domestic Navigation,34.42492036
+2015,Domestic Navigation,37.96899082
+2014,Domestic Navigation,34.62488777
+2013,Domestic Navigation,34.76744471
+2012,Domestic Navigation,44.38040372
+2011,Domestic Navigation,54.48907507
+2010,Domestic Navigation,53.71733629
+2009,Domestic Navigation,36.36657837
+2008,Domestic Navigation,31.64089406
+2007,Domestic Navigation,34.47440111
+2006,Domestic Navigation,30.620418
+2005,Domestic Navigation,32.81676635
+2004,Domestic Navigation,19.84251271
+2003,Domestic Navigation,20.09046493
+2002,Domestic Navigation,19.22117993
+2001,Domestic Navigation,20.3630676
+2000,Domestic Navigation,16.67826105
+1999,Domestic Navigation,15.47771252
+1998,Domestic Navigation,15.00016228
+1997,Domestic Navigation,15.43854562
+1996,Domestic Navigation,16.5086347
+1995,Domestic Navigation,17.47766277
+1994,Domestic Navigation,14.0028906
+1993,Domestic Navigation,13.51376431
+1992,Domestic Navigation,12.28272793
+1991,Domestic Navigation,10.2958379
+1990,Domestic Navigation,11.90913652
+2021,Domestic aviation,0.153361124
+2020,Domestic aviation,0.150526863
+2019,Domestic aviation,0.269340788
+2018,Domestic aviation,0.548476688
+2017,Domestic aviation,1.689871902
+2016,Domestic aviation,1.725338802
+2015,Domestic aviation,1.437933584
+2014,Domestic aviation,1.808270301
+2013,Domestic aviation,1.807864635
+2012,Domestic aviation,2.034597435
+2011,Domestic aviation,2.273685938
+2010,Domestic aviation,2.711039732
+2009,Domestic aviation,2.536497909
+2008,Domestic aviation,2.450499614
+2007,Domestic aviation,1.853087264
+2006,Domestic aviation,1.582903420
+2005,Domestic aviation,1.871043929
+2004,Domestic aviation,1.805627833
+2003,Domestic aviation,1.518492778
+2002,Domestic aviation,1.599101973
+2001,Domestic aviation,1.802474727
+2000,Domestic aviation,2.080025409
+1999,Domestic aviation,2.085074893
+1998,Domestic aviation,2.068102230
+1997,Domestic aviation,2.157578937
+1996,Domestic aviation,2.053456755
+1995,Domestic aviation,2.038027239
+1994,Domestic aviation,1.866151353
+1993,Domestic aviation,1.532393582
+1992,Domestic aviation,1.517649299
+1991,Domestic aviation,1.137103187
+1990,Domestic aviation,1.204602733
+2021,Cropland,-1.891498664
+2020,Cropland,-2.290468664
+2019,Cropland,-2.330068664
+2018,Cropland,-2.369668664
+2017,Cropland,-2.409268664
+2016,Cropland,-1.953338065
+2015,Cropland,-1.769204414
+2014,Cropland,-1.954153108
+2013,Cropland,0.810123397
+2012,Cropland,0.824215087
+2011,Cropland,0.830621736
+2010,Cropland,14.193308742
+2009,Cropland,14.357424609
+2008,Cropland,15.048996615
+2007,Cropland,1.711854402
+2006,Cropland,1.719761941
+2005,Cropland,-1.161808641
+2004,Cropland,-1.029066141
+2003,Cropland,24.525729785
+2002,Cropland,24.545781375
+2001,Cropland,-0.910474481
+2000,Cropland,-0.870874481
+1999,Cropland,-0.939035157
+1998,Cropland,-0.932105157
+1997,Cropland,-0.914285157
+1996,Cropland,-0.906167157
+1995,Cropland,-1.082107586
+1994,Cropland,-1.152562586
+1993,Cropland,-1.645239193
+1992,Cropland,-1.969748118
+1991,Cropland,-1.932078618
+1990,Cropland,-1.892478618
+2021,Commercial/Institutional,89.791731736
+2020,Commercial/Institutional,83.128233616
+2019,Commercial/Institutional,82.111713197
+2018,Commercial/Institutional,72.157878685
+2017,Commercial/Institutional,89.756866573
+2016,Commercial/Institutional,97.230838
+2015,Commercial/Institutional,103.0702575
+2014,Commercial/Institutional,87.5579057
+2013,Commercial/Institutional,77.9418752
+2012,Commercial/Institutional,68.090326
+2011,Commercial/Institutional,45.92694
+2010,Commercial/Institutional,70.921709
+2009,Commercial/Institutional,50.260614700
+2008,Commercial/Institutional,60.393120018
+2007,Commercial/Institutional,60.736034947
+2006,Commercial/Institutional,49.066653131
+2005,Commercial/Institutional,51.168065650
+2004,Commercial/Institutional,97.430523928
+2003,Commercial/Institutional,96.369374266
+2002,Commercial/Institutional,101.380417973
+2001,Commercial/Institutional,119.761488423
+2000,Commercial/Institutional,211.179777932
+1999,Commercial/Institutional,214.337776114
+1998,Commercial/Institutional,267.697809072
+1997,Commercial/Institutional,276.831498711
+1996,Commercial/Institutional,221.055709505
+1995,Commercial/Institutional,219.039511408
+1994,Commercial/Institutional,232.730890157
+1993,Commercial/Institutional,191.597289106
+1992,Commercial/Institutional,188.296108592
+1991,Commercial/Institutional,143.508094824
+1990,Commercial/Institutional,165.525723689
+2021,Chemical Industry,1.375e-06
+2020,Chemical Industry,1.375e-06
+2019,Chemical Industry,0.033
+2018,Chemical Industry,0.03531
+2017,Chemical Industry,0.03531
+2016,Chemical Industry,0.03452625
+2015,Chemical Industry,0.070104375
+2014,Chemical Industry,0.07014425
+2013,Chemical Industry,0.0335995
+2012,Chemical Industry,0.03359675
+2011,Chemical Industry,0.1288375
+2010,Chemical Industry,0.09625275
+2009,Chemical Industry,0.0955625
+2008,Chemical Industry,0.05960625
+2007,Chemical Industry,0.10097725
+2006,Chemical Industry,0.0944185
+2005,Chemical Industry,0.256773
+2004,Chemical Industry,0.156534125
+2003,Chemical Industry,0.094875
+2002,Chemical Industry,0.17015625
+2001,Chemical Industry,0.20405
+2000,Chemical Industry,0.085628125
+1999,Chemical Industry,0.13921875
+1998,Chemical Industry,0.2001395
+1997,Chemical Industry,0.2212045
+1996,Chemical Industry,0.13768425
+1995,Chemical Industry,0.248015625
+1994,Chemical Industry,0.232835625
+1993,Chemical Industry,0.208231375
+1992,Chemical Industry,0.1675575
+1991,Chemical Industry,0.3376175
+1990,Chemical Industry,0.16880875
+2021,Biological Treatment of Solid Waste,1.30031328
+2020,Biological Treatment of Solid Waste,0.911345344
+2019,Biological Treatment of Solid Waste,2.252229504
+2018,Biological Treatment of Solid Waste,2.69239264
+2017,Biological Treatment of Solid Waste,2.44539456
+2016,Biological Treatment of Solid Waste,2.28490304
+2015,Biological Treatment of Solid Waste,0.93214016
+2014,Biological Treatment of Solid Waste,1.01746848
+2013,Biological Treatment of Solid Waste,1.13419264
+2012,Biological Treatment of Solid Waste,1.16635232
+2011,Biological Treatment of Solid Waste,0.98126784
+2010,Biological Treatment of Solid Waste,0.17155488
+2009,Biological Treatment of Solid Waste,0
+2008,Biological Treatment of Solid Waste,0
+2007,Biological Treatment of Solid Waste,0
+2006,Biological Treatment of Solid Waste,3.660475068
+2005,Biological Treatment of Solid Waste,2.814892584
+2004,Biological Treatment of Solid Waste,2.75431234
+2003,Biological Treatment of Solid Waste,2.5458049
+2002,Biological Treatment of Solid Waste,1.694410056
+2001,Biological Treatment of Solid Waste,3.107735436
+2000,Biological Treatment of Solid Waste,2.722901012
+1999,Biological Treatment of Solid Waste,2.323488276
+1998,Biological Treatment of Solid Waste,4.0294932
+1997,Biological Treatment of Solid Waste,1.7010372
+1996,Biological Treatment of Solid Waste,2.4292504
+1995,Biological Treatment of Solid Waste,4.009826
+1994,Biological Treatment of Solid Waste,3.9169336
+1993,Biological Treatment of Solid Waste,1.7308892
+1992,Biological Treatment of Solid Waste,0
+1991,Biological Treatment of Solid Waste,0
+1990,Biological Treatment of Solid Waste,0
+2021,Agriculture/Forestry/Fishing,22.867023709
+2020,Agriculture/Forestry/Fishing,22.215686289
+2019,Agriculture/Forestry/Fishing,23.162560299
+2018,Agriculture/Forestry/Fishing,19.334549045
+2017,Agriculture/Forestry/Fishing,17.289383136
+2016,Agriculture/Forestry/Fishing,13.040476492
+2015,Agriculture/Forestry/Fishing,12.184841352
+2014,Agriculture/Forestry/Fishing,13.040935993
+2013,Agriculture/Forestry/Fishing,13.040844093
+2012,Agriculture/Forestry/Fishing,19.715953230
+2011,Agriculture/Forestry/Fishing,16.738804310
+2010,Agriculture/Forestry/Fishing,23.413766406
+2009,Agriculture/Forestry/Fishing,16.738510229
+2008,Agriculture/Forestry/Fishing,20.196310294
+2007,Agriculture/Forestry/Fishing,20.196310294
+2006,Agriculture/Forestry/Fishing,16.738510229
+2005,Agriculture/Forestry/Fishing,26.631112238
+2004,Agriculture/Forestry/Fishing,15.451530461
+2003,Agriculture/Forestry/Fishing,14.010385441
+2002,Agriculture/Forestry/Fishing,12.580762928
+2001,Agriculture/Forestry/Fishing,10.553984864
+2000,Agriculture/Forestry/Fishing,12.316749822
+1999,Agriculture/Forestry/Fishing,11.177592001
+1998,Agriculture/Forestry/Fishing,10.061842526
+1997,Agriculture/Forestry/Fishing,9.654311669
+1996,Agriculture/Forestry/Fishing,9.296776831
+1995,Agriculture/Forestry/Fishing,7.874388751
+1994,Agriculture/Forestry/Fishing,7.195134611
+1993,Agriculture/Forestry/Fishing,6.492855778
+1992,Agriculture/Forestry/Fishing,6.176622347
+1991,Agriculture/Forestry/Fishing,4.777266976
+1990,Agriculture/Forestry/Fishing,4.099516695
