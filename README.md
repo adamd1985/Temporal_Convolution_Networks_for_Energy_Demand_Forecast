@@ -1,74 +1,53 @@
 # Temporal Convolution Networks For Energy Demand Forecast: Malta Case Study
 
+Code for the experiments to predict the energy demands in a grid, with datasets from Malta for this usecase.
 
-## Project Structure
+# Install Common Environment
 
-- All papers, assignment latex, images, etc. should be stored in the ./misc directory.
-- Models should go to ./models, their training meta file to ./logs
-- Data should go to ./data or if unprocessed to ./raw_data
-
-## Install Common Environment
-
-Create *python 3.10* env in conda:
-
+We created a *python 3.10* env in conda:
 ```bash
 conda env create -f environment.yml
 ```
-or python venv:
-
+but python venv is also possible:
 ```bash
 venv create aml --python=python3.10
 venv activate aml
 ```
-
-Install dependencies from **requirements.txt**:
+Dependencies available in:  **requirements.txt**:
 `yes | pip install -r requirements.txt`
 
 ## Tensorflow Conda Installation
 
-For our TCN, you can create the conda environment directly through the YML provided: `environment.yml`
-
 If you want to install your Tensorflow, install it from conda like this:
-
 ```bash
 conda config --add channels conda-forge
 conda create -n tf tensorflow
 conda activate tf
 ```
-
-## Commiting the Environment
-
-Use pipreqs to help commit dependencies:
-
-- `pip install pipreqs`
-- `pip install nbconvert`
-
-When **commiting**, update the requirements from your base folder:
-
+or create it with our environment.yml:
 ```bash
-jupyter nbconvert --to script *.ipynb 
-pipreqs . --encoding=utf8  --force
+conda env create -n tf -f environment.yml
+conda activate tf
 ```
-
-**NB**: the above will generate a file **.py*, this is only needed for pipreqs to capture dependecies. Do not commit (all python files go to the .ignore)
-
-for conda envs, use this:  `conda env export > environment.yml`
 
 ## Datasets
 
-Commit datasets as CSV if <10mb, else use LSF.
-
-All CVSs should go to the folder ['./raw_data'](./raw_data)
-
-# Exporting Notebooks
-
-Use: `jupyter nbconvert --to pdf *.ipynb`
-
+All CVSs should are available in the folder ['./raw_data'](./raw_data)
 
 ## ENV configurations
 
 A default `.env` was provided.
 Use your own and add it to `.gitignore`.
 
-API connections, environment variables, and other secrets need to go in your .env.
-**Do not commit** your .env!
+
+## Reference
+This is a tensorflow variation of the architecture presented in the paper [Deep Learning for Time Series Forecasting: The Electric Load Case](https://arxiv.org/abs/1907.09207) paper.
+Mind that the code has been changed a bit, thus you may notice some differences with the models described in the paper:
+```
+@article{gasparin2019deep,
+  title={Deep Learning for Time Series Forecasting: The Electric Load Case},
+  author={Gasparin, Alberto and Lukovic, Slobodan and Alippi, Cesare},
+  journal={arXiv preprint arXiv:1907.09207},
+  year={2019}
+}
+```
