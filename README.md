@@ -1,6 +1,5 @@
-# Machine Learning Approaches to Ethical Analysis of Statistics (ICS5110)
+# Temporal Convolution Networks For Energy Demand Forecast: Malta Case Study
 
-Applied ML Assignment collaboration guidelines. Notebook is here: [aml_ICS5110.ipynb](./aml_ICS5110.ipynb).
 
 ## Project Structure
 
