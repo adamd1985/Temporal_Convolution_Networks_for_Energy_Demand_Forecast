@@ -1,5 +1,7 @@
 # Temporal Convolution Networks For Energy Demand Forecast: Malta Case Study
 
+![NN For Electricity Load: DALEE 2024](./nnelec_banner.png)
+
 Code for the experiments to predict the energy demands in a grid, with datasets from Malta for this usecase.
 
 # Install Common Environment
