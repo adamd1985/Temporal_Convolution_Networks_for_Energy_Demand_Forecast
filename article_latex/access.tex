@@ -8,17 +8,16 @@
 \usepackage{hyperref}
 \usepackage{booktabs}
 \usepackage{amsmath,array,graphicx}
-%\usepackage{subcaption}
 
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
-    filecolor=magenta,      
+    filecolor=magenta,
     urlcolor=cyan,
-    pdftitle={Estimating the Maximum Power Demand: A Case Study in Malta},
+    pdftitle={Temporal Convolution Networks for Energy Demand Forecast: Malta Case Study},
     pdfpagemode=FullScreen,
     }
-    
+
 \urlstyle{same}
 
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
@@ -28,7 +27,7 @@
 \doi{N/A}
 
 \title{Temporal Convolution Networks for Energy Demand Forecast: Malta Case Study}
-\author{\uppercase{Adam Darmanin}\authorrefmark{1}} 
+\author{\uppercase{Adam Darmanin}\authorrefmark{1}}
 \address[1]{Department of Artificial Intelligence, University of Malta (email: adam.darmanin.03@um.edu.mt)}
 
 
@@ -72,11 +71,11 @@ Root Mean Squared Error (RMSE) is widely used to evaluate the accuracy of a pred
 
 Symmetric Mean Absolute Percentage Error (SMAPE) can be used to evaluate the accuracy of a forecasting model particularly in time series analysis. The SMAPE metric measures the accuracy of predictions as a percentage of the absolute error relative to the sum of the absolute values of the predicted and actual values. This metric considers the over-estimations and under-estimations equally.
 
-Weighted Absolute Percentage Error (WAPE): This metric is used by the electric power industry who is interested in deviations relative to its load level~\cite{Benitez2020}. WAPE is defined for loads $y$ and the predictions $\hat{y}$ in Equation~\ref{wapeEq} 
+Weighted Absolute Percentage Error (WAPE): This metric is used by the electric power industry who is interested in deviations relative to its load level~\cite{Benitez2020}. WAPE is defined for loads $y$ and the predictions $\hat{y}$ in Equation~\ref{wapeEq}
 
 \begin{equation}
  \label{wapeEq}
-     \hat{y}= \frac{\sum_{i=1}^{n} |y_i - \hat{y}_i|}{\sum_{i=1}^{n} |y_i|} 
+     \hat{y}= \frac{\sum_{i=1}^{n} |y_i - \hat{y}_i|}{\sum_{i=1}^{n} |y_i|}
 \end{equation}
 
 
@@ -106,8 +105,8 @@ Some of the algorithms benefited from having a larger sample of data. For this r
 The raw data was scraped in tabular format as either Excel or Comma Separated Values (CSV) format. It was then processed through these steps:
 \begin{itemize}
     \item Manual editing of the CSV to remove text, disclaimers, and images from the National Statistics Office (NSO). Output is a clean CSV with two axis, a temporal index and either another temporal column or a feature.
-    \item Removal of features with more than 20\% NaNs. The procured dataset had \textit{Electricity Import}s and \textit{Renewable Production} that failed this quality bar and should be dropped. The rest could be interpolated without issue. 
-    \item Datasets beyond 3 standard deviations for normalisation were flagged as outliers will cause skewness and/or kurtosis. 
+    \item Removal of features with more than 20\% NaNs. The procured dataset had \textit{Electricity Import}s and \textit{Renewable Production} that failed this quality bar and should be dropped. The rest could be interpolated without issue.
+    \item Datasets beyond 3 standard deviations for normalisation were flagged as outliers will cause skewness and/or kurtosis.
     \item All data was sampled monthly with dates standardized to the format: \textit{Year-Month-1stDay}.
     \item A 20 year time frame between 2003 and 2022 was selected during which all data was available.
     \item For visualisation the data was scaled to millions of units (e.g. Giga Watts, Giga Tonnage, Population in millions) where applicable.
@@ -123,7 +122,7 @@ The emissions datasets came in a yearly resolution. To align to the monthly samp
 The electric supply and demand are time series in nature, and should exhibit several time series properties explored further down in this section.
 
 As shown in Figure~\ref{fig:elec_timeseries}, the first subplot is of time series signals, exhibiting seasonality and an upward trend.
-In the second and third subplots with the violin plots, it is shown that the summer months and late winter months have a high variance. 
+In the second and third subplots with the violin plots, it is shown that the summer months and late winter months have a high variance.
 In the third and fourth graphs with Kernel Density Estimate (KDE) plots of four-year-bins, the tails become longer and fatter in the later years meaning the demand increased but also the extremes have increased.
 \begin{figure}[htb]
     \centering
@@ -165,7 +164,7 @@ All together, the overlayed time series can be seen in the Figure~\ref{fig:all_t
     \label{fig:all_timeseries}
 \end{figure}
 
-There is correlations that need to be analyzed, and given these are time series data, cointegration can be explored to test if the associations are long term. 
+There is correlations that need to be analyzed, and given these are time series data, cointegration can be explored to test if the associations are long term.
 
 We performed pair plots across all features, as shown in Figure~\ref{fig:pair_plots}. The following was observed:
 \begin{itemize}
@@ -251,7 +250,7 @@ Given all the tests above, it was concluded that the best features to use to pre
 \end{itemize}
 
 \subsubsection{Time Series Tests}
-A time series $Y$ is comprised of four components: $Y(t)=T(t)S(t)C(t)\epsilon(t)$, where $T$ is the trend, $S$ is the seasonal trend, $C$ is the cyclical trend and $\epsilon$ is noise in any point at time $t$. 
+A time series $Y$ is comprised of four components: $Y(t)=T(t)S(t)C(t)\epsilon(t)$, where $T$ is the trend, $S$ is the seasonal trend, $C$ is the cyclical trend and $\epsilon$ is noise in any point at time $t$.
 The component $Y$ can be predicted with historical data, if the time series is Auto Regressive (AR), which can be tested for using the auto correlation function, which measures the linear predictability of target variable using adjacent points in two time series. From Figure~\ref{fig:acf1} autoregression (AR) is observed at lags 1, 2, 11, 12, with a Pearson correlation of 0.6 to 0.8, indicating the AR nature of the dataset.
 \begin{figure}[htb]
     \centering
@@ -394,13 +393,13 @@ In this experiment, a Temporal Convolution Network (TCN) was built in TensorFlow
 \subsubsection{Baseline AutoARIMA Model}
 
 ARIMA stands for AutoRegressive Integrated Moving Average model. An ARIMA model predicts \( \hat{y}(t) \) through:
-\begin{equation} 
+\begin{equation}
 \hat{y}(t) = \alpha_1 \cdot Y(t-1)
 \label{eq:arima}
 \end{equation}
 as described in \cite{Zhang2018}. Where $\alpha_1$ is the parameter that the AutoARIMA model will select, and $Y(t-1)$ is the previous value.
 
-The construction of a baseline ARIMA model is out of scope for this experiment, and an AutoARIMA model was used to select an adequate model without further fine-tuning. 
+The construction of a baseline ARIMA model is out of scope for this experiment, and an AutoARIMA model was used to select an adequate model without further fine-tuning.
 
 \subsubsection{Temporal Convolution Network Architecture}
 
@@ -464,7 +463,7 @@ Learning Rate & 0.001, 0.01, 0.1 & 0.0001 \\
 \subsubsection{Experiment Results}
 
 The error results of the TCN vs the baseline AutoARIMA are visible in Table~\ref{tab:metrics_comparison}
-\begin{table}[h] 
+\begin{table}[h]
 \centering
 \caption{TCN vs AutoARIMA Baseline}
 \begin{tabular}{lccc}
@@ -494,7 +493,7 @@ Visually, Figure~\ref{fig:tcnpredictions} shows how the TCN can capture trends a
 \end{figure}
 
 \section{Discussion}
-A thorough evaluation was conducted, metrics below. 
+A thorough evaluation was conducted, metrics below.
 
 
 \section{Conclusion}
