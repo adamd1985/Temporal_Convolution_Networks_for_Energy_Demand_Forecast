@@ -9,4 +9,4 @@ scipy==1.11.4
 seaborn==0.13.1
 statsmodels==0.14.0
 tensorflow==2.11.1
-tqdm==4.66.1
+tqdm==4.66.3
